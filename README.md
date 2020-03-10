@@ -4,7 +4,7 @@ Archive of Our Own，AO3 备用网站，长期可用。
 
 ## 最新地址
 
-https://ao3fans.com
+https://ao3fan.com
 
 建议使用 Ctrl + D 收藏此页面，以及时查看最新地址！
 
@@ -29,3 +29,7 @@ https://ao3fans.com
 ## 其他
 
 希望对你有帮助。
+
+## 更新日志
+
+2020-3-10， [ao3fans](https://ao3fans.com) 被墙
