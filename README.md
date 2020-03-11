@@ -16,6 +16,14 @@ https://ao3fan.com
 
 实现百分百与 AO3 官方原版无缝体验！
 
+## 优化说明
+
+1，去掉 newrelic 相关的某些 js 跟踪
+
+2，将 jquery 库替换为 jsDelivr CDN
+
+3，主页不加载 Tweets
+
 ## 隐私说明
 
 我们不收集任何东西。
@@ -32,4 +40,6 @@ https://ao3fan.com
 
 ## 更新日志
 
-2020-3-10， [ao3fans](https://ao3fans.com) 被墙
+2020-3-10，[ao3fans](https://ao3fans.com) 被墙
+
+2020-3-11，增加一些优化
