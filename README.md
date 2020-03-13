@@ -2,11 +2,11 @@
 Archive of Our Own，AO3 备用网站，长期可用。
 
 
-## 最新地址
+## 最新域名
 
-https://ao3fan.com
+[pig123.xyz](https://pig123.xyz)
 
-建议使用 Ctrl + D 收藏此页面，以及时查看最新地址！
+建议使用 Ctrl + D 收藏此页面，以及时查看最新域名！
 
 ## 关于此项目
 
@@ -40,6 +40,10 @@ https://ao3fan.com
 
 ## 更新日志
 
-2020-3-10，[ao3fans](https://ao3fans.com) 被墙
+2020-3-10，ao3fans 被墙
 
 2020-3-11，增加一些优化
+
+2020-3-13，ao3fan 被墙
+
+2020-3-13，不再使用 com 域名，肉痛
