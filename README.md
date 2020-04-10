@@ -11,7 +11,7 @@ Archive of Our Own，AO3 备用网站，长期可用。
 ---
 ## 从这里开始不属于233原内容
 
-[**自建镜像站教程**]("https://github.com/ChrisChirs/ao3Rebuild")
+[**自建镜像站教程**](https://github.com/ChrisChirs/ao3Rebuild)
 
 **与233镜像站不同的地方**
 
