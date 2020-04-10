@@ -25,7 +25,7 @@ Archive of Our Own，AO3 备用网站，长期可用。
 
 **与233镜像站相同的地方**
 
-1, 出于非盈利目的我们不会记录任何除ip,method,url,status_code以外的任何内容。
+1, 出于非盈利目的我不会记录任何除ip,method,url,status_code以外的任何内容。
 
 2, 流量采用https加密，最高TLS V1.3
 
@@ -37,7 +37,7 @@ Archive of Our Own，AO3 备用网站，长期可用。
 
 - 节省服务器流量
 
-### 警告⚠
+### ⚠警告
 
 **请不要在China Mainland的公网上公开大规模分享镜像站，除非您嫌镜像站死得不够快或者准备好了CloudFlare**
 
