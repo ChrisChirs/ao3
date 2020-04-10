@@ -11,9 +11,9 @@ Archive of Our Own，AO3 备用网站，长期可用。
 ---
 ## 从这里开始不属于233原内容
 
-## [自建镜像站教程]("https://github.com/ChrisChirs/ao3Rebuild")
+**[自建镜像站教程]("https://github.com/ChrisChirs/ao3Rebuild")**
 
-### 与233镜像站不同的地方
+**与233镜像站不同的地方**
 
 1, 所有流量包括cdn除twt外按照官方均走google,twitter，当然，是通过镜像。我们自动将twt的部分流量更替链接定向至镜像，经测试在Chrome环境下无法进行跨站xhr，不会泄露信息。
 
@@ -23,7 +23,7 @@ Archive of Our Own，AO3 备用网站，长期可用。
 
 4, 适合小众使用，如果想要大规模使用请自行添加CloudFlare.
 
-### 与233镜像站相同的地方
+**与233镜像站相同的地方**
 
 1, 出于非盈利目的我们不会记录任何除ip,method,url,status_code以外的任何内容。
 
